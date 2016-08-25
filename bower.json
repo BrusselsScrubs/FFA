@@ -1,0 +1,19 @@
+{
+  "name": "ffa",
+  "version": "0.0.0",
+  "authors": [
+    "gableh <gable.heng@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "~3.3.6"
+  }
+}
