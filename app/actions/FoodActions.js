@@ -6,7 +6,7 @@ module.exports = {
       foodlist:foodlist,
       type:"foodlist:addFoodList"
     })
-  }
+  },
   deleteFoodList:function(foodlist){
     dispatcher.dispatch({
       foodlist:foodlist,
